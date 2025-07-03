@@ -1,0 +1,29 @@
+Email Validation Report:
+
+VALID: abby@emergencydisasterservices.com
+VALID: cody@emergencydisasterservices.com
+VALID: jerry@emergencydisasterservices.com
+VALID: JBrandt@garner-es.com
+VALID: cbreckenridge@slsco.com
+VALID: Emendel@texasdisposal.com
+VALID: jordan@grannysalliance.com
+VALID: cwalker@garner-es.com
+VALID: Michaelh@employeehousing.com
+VALID: seth@employeehousing.com
+VALID: doug@grannysalliance.com
+VALID: b.alphin@industrialentsystems.com
+VALID: lucas@apexsites.com
+VALID: kbatey@teamhousing.com
+VALID: paul.switzer@atco.com
+VALID: eddie@kellymobilecity.com
+VALID: r.cheek@industrialentsystems.com
+VALID: ron@emergencydisasterservices.com
+VALID: don.brazil@usaupstar.com
+VALID: klay.south@usaupstar.com
+VALID: krodriguez@propacusa.com
+VALID: blakef@phoenixpollution.com
+VALID: jed.smith@rvbtransport.com
+VALID: erogers@texaspridedisposal.com
+VALID: npompa@propacusa.com
+VALID: mochoa@rruniversalsolutions.com
+VALID: jchavez@rruniversalsolutions.com
